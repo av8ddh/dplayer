@@ -32,7 +32,7 @@ h1{margin: 0;padding-left: 2.5%;padding-top: 20px;color: #FF4C29;font-weight: 60
 .fby>th {font-weight: bold;}.fby>td {font-weight: bold;}
 .fby,th,td {border: 1px solid #6EBF8B;height: 24px;line-height: 24px;text-align: center;}
 .fby a {color: #ddd;text-decoration: none;}
-#copytoast {position: fixed;width: 40%;height: 6vh;top: 40%;left: 30%;z-index: 9;background-color: #2C394B;border-radius: 20px;font-size: 80%;color: #ddd;padding-top: 18px;text-align: center;}
+#copytoast {position: fixed;width: 40%;height: 18vh;top: 40%;left: 30%;z-index: 9;background-color: #2C394B;border-radius: 20px;font-size: 80%;color: #ddd;padding-top: 18px;text-align: center;}
 .s-type{height: 38px;overflow-x: scroll;overflow-y:hidden;white-space: nowrap;background-color: #D82148;padding: 0 10px;}
 .s-type>a{font-size: 16px;color: #fff;text-decoration: none;display: inline-block;height: 100%;width: 22%;text-align: center;box-sizing: border-box;border-right: 1px solid #890F0D;}
 .s-type>a.active{color: #F0A500;}
