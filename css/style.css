@@ -21,7 +21,7 @@ h1{margin: 0;padding-left: 2.5%;padding-top: 20px;color: #FF4C29;font-weight: 60
 .search{height: 1.5rem;margin: .4rem;position: relative;}
 .search input{height: 100%;width: 100%;border: none;background-color: #082032;outline:none;color: #ddd;font-size: 60%}
 .search button{display: inline-block;position: absolute;right: 0;top: 0;width: 1.5rem;height: 1.5rem;background-color:#082032;background: url(https://cdn.jsdelivr.net/gh/av8ddh/pic@main/img/search.png) no-repeat; border: none;background-position:center;background-size: 1.2rem}
-.card-large .menu{margin:.4rem 4% 0 4%;position: relative;}
+.card-large .menu{position: relative;}
 .card-large .menu a{font-size: 60%;display: inline-block;color: #ddd;height: 1rem;line-height: 1rem;padding:0;margin: 0;width: 23.1%;text-align: center;text-decoration: none;position: relative;}
 .devide{width: 100%;clear: both;}
 .footer{height: 5rem;width: 100%;clear: both;position: relative;}
