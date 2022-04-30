@@ -22,6 +22,7 @@ h1{margin: 0;padding-left: 2.5%;padding-top: 20px;color: #FF4C29;font-weight: 60
 .search input{height: 100%;width: 100%;border: none;background-color: #082032;outline:none;color: #ddd;font-size: 60%}
 .search button{display: inline-block;position: absolute;right: 0;top: 0;width: 1.5rem;height: 1.5rem;background-color:#082032;background: url(https://cdn.jsdelivr.net/gh/av8ddh/pic@main/img/search.png) no-repeat; border: none;background-position:center;background-size: 1.2rem}
 .card-large .menu{position: relative;}
+.card-large .menu a.active{color: #F0A500;}
 .card-large .menu a{font-size: 60%;display: inline-block;color: #ddd;height: 1rem;line-height: 1rem;padding:0;margin: 0;width: 23.1%;text-align: center;text-decoration: none;position: relative;}
 .devide{width: 100%;clear: both;}
 .footer{height: 5rem;width: 100%;clear: both;position: relative;}
@@ -29,9 +30,6 @@ h1{margin: 0;padding-left: 2.5%;padding-top: 20px;color: #FF4C29;font-weight: 60
 .fby>th {font-weight: bold;}.fby>td {font-weight: bold;}
 .fby,th,td {border: 1px solid #6EBF8B;height: 24px;line-height: 24px;text-align: center;}
 .fby a {color: #ddd;text-decoration: none;}
-.s-type{height: 38px;overflow-x: scroll;overflow-y:hidden;white-space: nowrap;background-color: #D82148;padding: 0 10px;}
-.s-type>a{font-size: 16px;color: #fff;text-decoration: none;display: inline-block;height: 100%;width: 22%;text-align: center;box-sizing: border-box;border-right: 1px solid #890F0D;}
-.s-type>a.active{color: #F0A500;}
 .notice{width: 95%;border: 2px dashed #ddd;border-radius: 1rem;padding: .5rem;margin: 2.5%;position: relative;box-sizing: border-box;}
 .notice p{color:#F0A500}
 .notice ul{margin: .5rem 0;}
